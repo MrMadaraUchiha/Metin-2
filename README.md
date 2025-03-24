@@ -1,5 +1,7 @@
 # Metin-2
 
+![Metin-2](https://www.gamersegames.com.br/wp-content/uploads/2019/06/metin2.jpg)
+
 Bem-vindo ao repositório **Metin-2**! Aqui você encontrará uma coleção de comandos, scripts e outras informações úteis relacionadas ao jogo **Metin 2**.
 
 ## 🔍 O que você encontrará aqui?
@@ -15,6 +17,6 @@ Se você tem comandos, scripts ou outras informações valiosas sobre Metin 2, f
 3. Envie um **pull request** para revisão.
 
 ## 📼 Contato
-Caso tenha dúvidas ou sugestões, entre em contato através do nosso discord: https://discord.com/invite/S9bDRqmtKp
+Caso tenha dúvidas ou sugestões, entre em contato através do nosso Discord: [Clique aqui](https://discord.com/invite/S9bDRqmtKp)
 
 Aproveite e divirta-se no mundo de **Metin 2**! ⚔️
